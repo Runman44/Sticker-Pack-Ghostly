@@ -1,0 +1,68 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "mranderson_ghost_sticker_pack",
+      "name": "Ghosty",
+      "publisher": "Mr.Anderson",
+      "tray_image_file": "tray_Ghost.png",
+      "image_data_version":"2",
+      "avoid_cache":false,
+      "publisher_email":"askmranderson@gmail.com",
+      "publisher_website": "https://www.mranderson.nl",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Ghost_looking.webp",
+          "emojis": ["🙂", "🙄"]
+        },
+        {
+          "image_file": "02_Ghost_wondering.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "03_Ghost_down.webp",
+          "emojis": ["😞","😔"]
+        },
+        {
+          "image_file": "04_Ghost_doh.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "05_Ghost_defeated.webp",
+          "emojis": ["😓","💔"]
+        },
+        {
+          "image_file": "06_Ghost_sad.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "07-Ghost_whatever.webp",
+          "emojis": ["😒","👎"]
+        },
+        {
+          "image_file": "08_Ghost_happy.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "09_Ghost_blessed.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "10_Ghost_love.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "11_Ghost_star.webp",
+          "emojis": ["⭐","🤗"]
+        },
+        {
+          "image_file": "12_Ghost_rainbow.webp",
+          "emojis": ["💜", "🥰"]
+        }
+      ]
+    }
+  ]
+}
