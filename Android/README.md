@@ -2,4 +2,4 @@
 
 ## Overview
 
-Pass - Ghosty / Ghosty1
+Ghosty / Ghosty1
